@@ -1,0 +1,18 @@
+title: Internet Issues
+date: 2020-10-07
+tags: infrastructure, internet
+
+Remember [this post][1]? One of the big pluses I noted was that the property in Stowe was already wired for internet.  This is false. It wasn't a mistake you can blame me for.  I had called the cable company to confirm it while standing on the property while we were talking about it with my realtor.  The house was, despite being on a quiet, remote-feeling street, just up the hill from the center of town.  
+
+But after some discussion with neighbors on a recent trip up I got worried because they said that internet access was spotty at best, non-existent at worse.  I called the cable company back a few times.  Each time, depending on who answered the phone, I got a different answer.  None of those answers were "Yes, you have internet." but instead they were some variant of "You have no internet, there is no way to get internet." with a little back and forth about where the cable internet actually ended in relation to our street.
+
+What followed those phone calls is a months-long odyssey of trying to gather information and make contacts in order to get quality internet to the site and allow the family to work and educate remotely after we move up. I fashioned a list of people in government to email from local county senators to the state congressman.  I made a list of all internet providers available to us from phone companies proffering DSL to satellite internet companies to wireless mobile hotspots.   While each one of these had flashes that felt like a victory was in sight, each one crashed and burned in their own way.  At this point, we are exactly where we started -- no internet -- but have quite a bit more information about how difficult the situation is. 
+
+The point of this post wasn't to bore with the details of how the state government makes you feel like things are happening when they aren't, or that some of the local officials don't even bother emailing you back and how annoying that is.  Or to rant about how you can call the same company and get four completely disparate answers to your questions.  Or the fact that, in Vermont, you can be 1.5 miles from the center of a fairly well known ski town and get laughed at when you say you want to get cable internet.  The point of the post was to mock my decision making and information gathering from back in May of 2019. 
+
+All that said, there are encouraging signs that we may be able to get internet to the house prior to move-in in August 2021.  On our last trip up, we decided that we needed actual information from people in the neighborhood and see what progress they have made or if they even want internet.  We drafted a letter explaining the problem we were having and the fact that everyone from government to town companies said "If you have a list of potential customers in the neighborhood willing to pay for cable, it makes it more likely that we will run cable internet to your road."   The letter was an attempt to produce a spreadsheet for the cable company and prove to them that a lot of people up here are hoping to get internet on the road sooner rather than later.
+
+The response to the letter was immediate and enthusiastic.  It also introduced us to a lot of the neighbors which was great. There apparently have been efforts to bring cable internet to the little cluster of roads in our area for years. Often they failed in anger and frustration or just died on the vine because no one wanted to usher it through the proper channels or put in the many hours it will take to make a dent in the inertness of local government and companies.
+
+
+[1]:	http://www.vtwoods.life/2020/flashback-2
